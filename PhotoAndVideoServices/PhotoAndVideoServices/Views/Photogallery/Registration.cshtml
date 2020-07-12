@@ -1,0 +1,244 @@
+﻿
+@{
+    ViewData["Title"] = "Registration";
+    var currentUser = (CurrentUser)ViewBag.CurrentUser;
+}
+
+@model UserPM
+
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script type="text/javascript">
+
+    $(document).ready(function () {
+
+        $("input.surname").blur(function () {
+            checkSurnameField();
+        });
+
+        $("input.name").blur(function () {
+            checkNameField();
+        });
+
+        $("input.middle-name").blur(function () {
+            checkMiddleNameField();
+        });
+
+        $("input.phone").blur(function () {
+            checkPhoneField();
+        });
+
+        $("input.password").blur(function () {
+            checkPasswordField();
+        });
+
+        $("#registration-form").submit(function (e) {
+            e.preventDefault();
+
+            if (checkFields()) {
+                 $.ajax({
+                    url: "@Url.Action("SaveUser", "Users")",
+                    method: "POST",
+                    data: $('#registration-form').serialize(),
+                    success: function () {
+                        window.location.href = "@Url.Action("SuccessfulRegistration", "Photogallery")";
+                    }
+                });
+            }
+        });
+
+        function checkFields() {
+            var department = $("select.department").removeClass("error-border");
+            $("div.department-msg").addClass("visibility-hidden");
+
+            var valid = true;
+            if (String($("select.department option:selected").val()) == "0") {
+                department.addClass("error-border");
+                $("div.department-msg").removeClass("visibility-hidden");
+                valid = false;
+            }
+
+            if (!checkSurnameField()) {
+                valid = false;
+            }
+
+            if (!checkNameField()) {
+                valid = false;
+            }
+
+            if (!checkMiddleNameField()) {
+                valid = false;
+            }
+
+            if (!checkPhoneField()) {
+                valid = false;
+            }
+
+            if (!checkPasswordField()) {
+                valid = false;
+            }
+
+            return valid;
+        }
+
+
+        function checkSurnameField() {
+            var surname = $("input.surname").removeClass("error-border");
+            $("div.surname-msg").addClass("visibility-hidden");
+
+            if (String(surname.val()).length == 0) {
+                surname.addClass("error-border");
+                $("div.surname-msg").removeClass("visibility-hidden");
+                return false;
+            }
+            return true;
+        }
+
+        function checkNameField() {
+            var name = $("input.name").removeClass("error-border");
+            $("div.name-msg").addClass("visibility-hidden");
+
+            if (String(name.val()).length == 0) {
+                name.addClass("error-border");
+                $("div.name-msg").removeClass("visibility-hidden");
+                return false;
+            }
+            return true;
+        }
+
+        function checkMiddleNameField() {
+            var middleName = $("input.middle-name").removeClass("error-border");
+            $("div.middle-name-msg").addClass("visibility-hidden");
+
+            if (String(middleName.val()).length == 0) {
+                middleName.addClass("error-border");
+                $("div.middle-name-msg").removeClass("visibility-hidden");
+                return false;
+            }
+            return true;
+        }
+
+
+        function checkPasswordField() {
+            var password = $("input.password").removeClass("error-border");
+            $("div.password-msg").addClass("visibility-hidden");
+
+            if (String(password.val()).length == 0) {
+                password.addClass("error-border");
+                $("div.password-msg").removeClass("visibility-hidden");
+                return false;
+            }
+            return true;
+        }
+
+        function checkPhoneField() {
+            var phone = $("input.phone").removeClass("error-border");
+            $("div.phone-msg").addClass("visibility-hidden");
+
+            if (String(phone.val()).length != 10 || String(phone.val()).charAt(0) != "0") {
+                phone.addClass("error-border");
+                $("div.phone-msg").removeClass("visibility-hidden");
+                return false;
+            }
+            return true;
+        }
+        
+    });
+</script>
+<style>
+    .error-message {
+        height: 28px;
+        line-height: 28px;
+    }
+
+    label {
+        font-size: 18px;
+    }
+</style>
+
+<div class="container-fluid margin-top-100px">
+    <div class="row justify-content-center">
+        <h1>Регистрация</h1>
+    </div>
+    <div class="row justify-content-center">
+        <div class="col-5 mb-5">
+            <form id="registration-form">
+                <div class="form-group row mb-0">
+                    @*<div class="col-6">
+            <label for="surname" class="ml-2">Фамилия</label>
+        </div>*@
+                    <div class="col-6 ml-4 my-1 error-message surname-msg visibility-hidden">
+                        <p>Заполните это поле</p>
+                    </div>
+                    <div class="col-md-12 mb-4 mb-lg-0">
+                        <input type="text" id="surname" class="form-control photogallery-input surname" asp-for="Surname" placeholder="Фамилия*">
+                    </div>
+                </div>
+                <div class="form-group row mb-0">
+                    @*<div class="col-6">
+            <label for="name" class="ml-2">Имя</label>
+        </div>*@
+                    <div class="col-6 ml-4 my-1 error-message name-msg visibility-hidden">
+                        <p>Заполните это поле</p>
+                    </div>
+                    <div class="col-md-12 mb-4 mb-lg-0">
+                        <input type="text" id="name" class="form-control photogallery-input name" asp-for="Name" placeholder="Имя*">
+                    </div>
+                </div>
+                <div class="form-group row mb-0">
+                    @*<div class="col-6">
+            <label for="middlename" class="ml-2">Отчество</label>
+        </div>*@
+                    <div class="col-6 ml-4 my-1 error-message middle-name-msg visibility-hidden">
+                        <p>Заполните это поле</p>
+                    </div>
+                    <div class="col-md-12 mb-4 mb-lg-0">
+                        <input type="text" id="middlename" class="form-control photogallery-input middle-name" asp-for="MiddleName" placeholder="Отчество*">
+                    </div>
+                </div>
+                <div class="form-group row mb-0">
+                    @*<div class="col-6">
+            <label for="phone" class="ml-2">Телефон</label>
+        </div>*@
+                    <div class="col-6 ml-4 my-1 error-message phone-msg visibility-hidden">
+                        <p>Введите действительный номер телефона</p>
+                    </div>
+                    <div class="col-md-12">
+                        <input type="number" id="phone" class="form-control photogallery-input phone" asp-for="Phone" placeholder="Телефон*">
+                    </div>
+                </div>
+                <div class="form-group row mb-0">
+                    @*<div class="col-6">
+                        <label for="password" class="ml-2">Пароль</label>
+                    </div>*@
+                    <div class="col-12 ml-4 my-1 error-message password-msg visibility-hidden">
+                        <p>Пароль должен содержать не менее 8 символов</p>
+                    </div>
+                    <div class="col-md-12">
+                        <input id="password" type="password" class="form-control photogallery-input password" asp-for="Password" placeholder="Пароль*" />
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-6 ml-4 my-1 error-message department-msg visibility-hidden">
+                        <p>Выберите отделение</p>
+                    </div>
+                    <div class="col-md-12">
+                        <select class="form-control photogallery-select department header" asp-for="DepartmentId" name="header">
+                            <option hidden value="0">Выберите отделение*</option>
+                            <option value=1>Photogallery(Днепр)</option>
+                            <option value=2>Photogallery(Киев)</option>
+                            <option value=3>Photogallery(Одесса)</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group row justify-content-center mb-0">
+                    <div class="col-md-6 mr-auto">
+                        <input type="submit" class="btn btn-block photogallery-btn-orange text-white px-5 photogallery-submit-btn" value="Зарегистрироваться">
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+
+

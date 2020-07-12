@@ -1,0 +1,72 @@
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.deps.json
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.json
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.dev.json
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.CoreCompileInputs.cache
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfoInputs.cache
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfo.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.dll
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csprojAssemblyReference.cache
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.deps.json
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.json
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.dev.json
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csprojAssemblyReference.cache
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfo.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.dll
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.deps.json
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.json
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.dev.json
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csprojAssemblyReference.cache
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfo.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.dll
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.deps.json
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.json
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.dev.json
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csprojAssemblyReference.cache
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfoInputs.cache
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfo.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.deps.json
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.json
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.dev.json
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csprojAssemblyReference.cache
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfoInputs.cache
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfo.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.deps.json
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.json
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.dev.json
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csprojAssemblyReference.cache
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfoInputs.cache
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfo.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.deps.json
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.json
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.runtimeconfig.dev.json
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\DataLayer\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.csprojAssemblyReference.cache
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfoInputs.cache
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.AssemblyInfo.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\DataLayer\obj\Debug\netcoreapp2.2\DataLayer.pdb

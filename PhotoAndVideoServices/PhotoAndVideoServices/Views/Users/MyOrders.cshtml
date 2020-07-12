@@ -1,0 +1,44 @@
+﻿
+@{
+    ViewData["Title"] = "MyOrders";
+}
+
+
+@model List<OrderPM>
+
+@{
+    ViewData["Title"] = "ShowOrders";
+}
+
+<div class="container margin-top-100px">
+    <div class="theme">
+        <div class="row">
+            <h1 class="ml-5">Заказы</h1>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <table class="table table-borderless">
+                    <thead>
+                        <tr>
+                            <th scope="col">Заказчик</th>
+                            <th scope="col">Тип услуги</th>
+                            <th scope="col" class="text-center">Статус</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var order in Model)
+                        {
+                            <tr class="tr-border">
+                                <td>@order.User.FullName</td>
+                                <td>@order.Service.Name</td>
+                                <td class="text-center">@order.StatusName</td>
+                                <td><a asp-action="ShowOrder" asp-controller="Orders" asp-route-orderId="@order.Id">Подробнее</a></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

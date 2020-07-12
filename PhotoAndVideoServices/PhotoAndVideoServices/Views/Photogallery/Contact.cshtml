@@ -1,0 +1,281 @@
+﻿
+@{
+    ViewData["Title"] = "Contact";
+}
+
+@model List<DepartmentPM>
+
+<script src="~/lib/jquery/dist/jquery.min.js">
+
+</script>
+<script type="text/javascript"> 
+    $(document).ready(function () {
+
+        $("select.header").change(function () {
+            $(this).removeClass("error-border");
+            $("div.header-msg").addClass("visibility-hidden");
+        });
+
+        $("input.name").blur(function () {
+            checkFullNameField();
+        });
+
+        $("input.surname").blur(function () {
+            checkFullNameField();
+        });
+
+        $("textarea.message").blur(function () {
+            checkMessageField();
+        });
+
+        $("input.mail").blur(function () {
+            checkMailField();
+        });
+
+        $("#message-form").submit(function (e) {
+            e.preventDefault();
+
+            if (checkFields()) {
+
+                 $.ajax({
+                    url: "@Url.Action("SendMessage", "Photogallery")",
+                    method: "POST",
+                    data: $('#message-form').serialize(),
+                     success: function () {
+                         $("#message-form")[0].reset();
+                         alert("Сообщение отправлено");
+                     }
+                });
+            }
+        });
+
+        function checkFields() {
+            var header = $("select.header").removeClass("error-border");
+            $("div.header-msg").addClass("visibility-hidden");
+
+            var name = $("input.name").removeClass("error-border");
+            var surname = $("input.surname").removeClass("error-border");
+            $("div.full-name-msg").addClass("visibility-hidden");
+
+            var mail = $("input.mail").removeClass("error-border");
+            $("div.mail-msg").addClass("visibility-hidden");
+
+            var message = $("textarea.message").removeClass("error-border");
+            $("div.message-msg").addClass("visibility-hidden");
+
+            var valid = true;
+            if (String($("select.header option:selected").val()) == "Выберите тему") {
+                header.addClass("error-border");
+                $("div.header-msg").removeClass("visibility-hidden");
+                valid = false;
+            }
+
+            if (String(name.val()).length == 0) {
+                name.addClass("error-border");
+                $("div.full-name-msg").removeClass("visibility-hidden");
+                valid = false;
+            }
+
+            if (String(surname.val()).length == 0) {
+                surname.addClass("error-border");
+                $("div.full-name-msg").removeClass("visibility-hidden");
+                valid = false;
+            }
+
+            if (!validateMail(mail.val())) {
+                mail.addClass("error-border");
+                $("div.mail-msg").removeClass("visibility-hidden");
+                valid = false;
+            }
+
+            if (String(message.val()).length == 0) {
+                message.addClass("error-border");
+                $("div.message-msg").removeClass("visibility-hidden");
+                valid = false;
+            }
+
+            return valid;
+        }
+
+        function checkFullNameField() {
+            var name = $("input.name").removeClass("error-border");
+            var surname = $("input.surname").removeClass("error-border");
+            $("div.full-name-msg").addClass("visibility-hidden");
+
+            if (String(name.val()).length == 0) {
+                name.addClass("error-border");
+                $("div.full-name-msg").removeClass("visibility-hidden");
+            }
+
+            if (String(surname.val()).length == 0) {
+                surname.addClass("error-border");
+                $("div.full-name-msg").removeClass("visibility-hidden");
+            }
+        }
+
+        function checkMessageField() {
+            var message = $("textarea.message").removeClass("error-border");
+            $("div.message-msg").addClass("visibility-hidden");
+
+            if (String(message.val()).length == 0) {
+                message.addClass("error-border");
+                $("div.message-msg").removeClass("visibility-hidden");
+            }
+        }
+
+        function checkMailField() {
+            var mail = $("input.mail").removeClass("error-border");
+            $("div.mail-msg").addClass("visibility-hidden");
+
+            if (!validateMail(mail.val())) {
+                mail.addClass("error-border");
+                $("div.mail-msg").removeClass("visibility-hidden");
+            }
+        }
+
+        function validateMail(mail) {
+            var re = /^(([^<>()\[\]\\.,;:\s@@"]+(\.[^<>()\[\]\\.,;:\s@@"]+)*)|(".+"))@@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+            return re.test(String(mail).toLowerCase());
+        };
+
+        //function checkPhoneField() {
+        //    var phone = $(".phone");
+        //    if (validatePhoneNumber(phone.val())) {
+        //        phone.removeClass("invalid");
+        //        phone.siblings(".error").addClass("remoda-hide");
+        //    }
+        //}
+
+
+        //function validatePhoneNumber(phone) {
+        //    var re = /^\(?([0-9]{3})\)?[-. ]?([0-9]{3})[-. ]?([0-9]{4})$/;
+        //    return re.test(String(phone));
+        //}
+    });
+</script>
+
+<style>
+    th, td {
+        text-align: center;
+    }
+
+    .thead-orange {
+        background-color: #f4ad2d;
+    }
+
+    .message-content {
+        height: 500px;
+        background-color: rgba(128, 128, 128, 0.1);
+    }
+
+    .photogallery-input {
+        box-shadow: none !important;
+        outline: none;
+    }
+
+    .photogallery-textarea {
+        box-shadow: none !important;
+    }
+
+    .photogallery-select {
+        box-shadow: none !important;
+    }
+</style>
+
+<div class="container margin-top-100px">
+    <div>
+        <div class="row">
+            <h1 class="ml-4 photogallery-title">Наши адреса и контакты</h1>
+        </div>
+        <table class="table">
+            <thead class="thead-light">
+                <tr>
+                    <th scope="col">#</th>
+                    <th scope="col">Название</th>
+                    <th scope="col">Город</th>
+                    <th scope="col">Телефон</th>
+                    <th scope="col">Почта</th>
+                </tr>
+            </thead>
+            <tbody>
+                @{
+                    int counter = 0;
+                }
+                @foreach (var department in Model)
+                {
+                    <tr>
+                        <th scope="row">@(++counter)</th>
+                        <td>@department.Name</td>
+                        <td>@department.City</td>
+                        <td>
+                            @foreach (var departmentInfo in department.DepartmentInfomations)
+                            {
+                                @departmentInfo.Phone<br />
+                            }
+                        </td>
+                        <td>
+                            @foreach (var departmentInfo in department.DepartmentInfomations)
+                            {
+                                @departmentInfo.Mail<br />
+                            }
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+    <div class="row">
+        <div class="col-lg-8 mb-5">
+            <form id="message-form">
+                <div class="form-group row">
+                    <div class="col-md-12 mb-4 mb-lg-0">
+                        <select class="form-control photogallery-select header" name="header">
+                            <option hidden value="Выберите тему">Выберите тему*</option>
+                            <option value="Корпоративная услуга">Корпоративная услуга</option>
+                            <option value="Свадебные услуги">Свадебные услуги</option>
+                            <option value="Специальные мероприятия">Специальные мероприятия</option>
+                        </select>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-md-6 mb-4 mb-lg-0">
+                        <input type="text" class="form-control photogallery-input name" name="name" placeholder="Имя*">
+                    </div>
+                    <div class="col-md-6">
+                        <input type="text" class="form-control photogallery-input surname" name="surname" placeholder="Фамилия*">
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-md-12">
+                        <input type="text" class="form-control photogallery-input mail" name="mail" placeholder="Почта*">
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-md-12">
+                        <textarea class="form-control photogallery-textarea message" name="message" placeholder="Ваше сообщение*" cols="30" rows="10"></textarea>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-md-6 mr-auto">
+                        <input type="submit" class="btn btn-block photogallery-btn-orange text-white px-5 photogallery-submit-btn" value="Отправить">
+                    </div>
+                </div>
+            </form>
+        </div>
+        <div class="col-lg-4">
+            <div class="error-message visibility-hidden header-msg mb-3">
+                <p>Выберите тему сообщения</p>
+            </div>
+            <div class="error-message visibility-hidden full-name-msg mb-3">
+                <p>Заполните эти поля</p>
+            </div>
+            <div class="error-message visibility-hidden mail-msg mb-3">
+                <p>Введите действительный эл. адрес.</p>
+            </div>
+            <div class="error-message visibility-hidden message-msg mb-3">
+                <p>Заполните это поле</p>
+            </div>
+        </div>
+    </div>
+</div>
+

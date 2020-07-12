@@ -1,0 +1,61 @@
+﻿
+@model List<OrderPM>
+
+@{
+    ViewData["Title"] = "ShowOrders";
+}
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("select.sort-by-status").change(function () {
+            var statusId = $("select.sort-by-status option:selected").val();
+            $('.orders-content').load("/Orders/ShowSortedOrders", { statusId: statusId });
+        });
+    });
+</script>
+
+<style>
+    table {
+    }
+
+    .thead-light {
+        background-color: orange !important;
+    }
+
+    .theme {
+        /*background-image: url("/images/theme.png")*/
+    }
+</style>
+
+<div class="container margin-top-100px">
+    <div class="theme">
+        <div class="row">
+            <div class="col-3">
+                <h1 class="ml-5">Заказы</h1>
+            </div>
+            <div class="col-1">
+
+            </div>
+            <div class="col-4">
+                <div>
+                    Сортировать:
+                    <select class="photogallery-select sort-by-status sort-select mr-5" style="width: 180px">
+                        <option selected value="5">Все</option>
+                        <option value="1">Новый</option>
+                        <option value="2">Отклонен</option>
+                        <option value="3">Выполнен</option>
+                        <option value="4">Выполняется</option>
+                    </select>
+                </div>
+            </div>
+            <div class="col-3">
+                <input type="text" class="photogallery-search" name="name" value="" />
+            </div>
+        </div>
+        <div class="orders-content">
+            @await Html.PartialAsync("_ShowOrders", Model)
+        </div>
+    </div>
+</div>
+

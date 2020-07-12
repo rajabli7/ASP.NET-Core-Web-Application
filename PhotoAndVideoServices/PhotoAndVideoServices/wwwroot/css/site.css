@@ -1,0 +1,315 @@
+﻿
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    margin-bottom: 60px;
+    font-family: 'Roboto', sans-serif;
+}
+
+a {
+    color: black;
+}
+
+a:hover {
+    color: black;
+}
+
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    white-space: nowrap;
+    /* Set the fixed height of the footer here */
+    height: 60px;
+    line-height: 60px; /* Vertically center the text there */
+}
+
+.navbar-icon {
+    padding-left: 30px !important;
+    line-height: 20px;
+    background-repeat: no-repeat;
+    background-position-x: 5%;
+    background-position-y: center;
+    background-size: 24px;
+    height: 30px;
+    width: 80px;
+    margin-right: 10px;
+}
+
+.theme {
+    height: 80vh !important;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position-x: center;
+    background-position-y: 0%;
+}
+
+.active-link {
+    background-color: cornflowerblue;
+    color: white;
+}
+
+.photogalery-navbar {
+    height: 80px !important;
+    background-color: rgba(0 , 0, 0, 0.5) !important;
+}
+
+.main-image {
+    position: relative;
+    background-image: url(/images/main_image5.jpg);
+    background-size: 100%;
+    background-position-y: 28%;
+    background-repeat: no-repeat;
+    width: 100vw;
+    height: 100vh;
+}
+
+.main-image-title {
+    position: absolute;
+    top: 30%;
+    left: 10%;
+}
+
+.photogallery-title {
+    color: #f4ad2d;
+}
+
+.photogallery-white-text {
+    color: white;
+    font-size: 24px;
+}
+
+.account-link {
+    width: 70px;
+    background-image: url('/images/user_icon.svg');
+    background-size: 23px;
+    background-position-x: 3%;
+    background-position-y: 40%;
+    background-repeat: no-repeat;
+    padding-left: 30px !important;
+}
+
+.about-us-link {
+    width: 100px;
+    background-image: url('/images/information_icon.svg');
+    background-size: 25px;
+    background-position-x: 3%;
+    background-position-y: 40%;
+    background-repeat: no-repeat;
+    padding-left: 35px !important;
+}
+
+.contact-link {
+    width: 120px;
+    background-image: url('/images/contacts.svg');
+    background-size: 25px;
+    background-position-x: 3%;
+    background-position-y: 40%;
+    background-repeat: no-repeat;
+    padding-left: 35px !important;
+}
+
+.margin-top-100px
+{
+    margin-top: 100px;
+}
+
+.service-image {
+    max-width: 400px;
+    max-height: 270px !important;
+}
+
+.services-container {
+    padding-top: 100px;
+    padding-right: 50px;
+    padding-left: 50px;
+}
+
+.service-description {
+    width: 380px;
+    height: 150px;
+}
+
+.photogallery-btn {
+    padding: 0 20px;
+    min-width: 130px;
+    height: 50px;
+    color: #ffffff !important;
+    border: none;
+    outline: none !important;
+    text-align: center;
+    line-height: 50px;
+    cursor: pointer;
+}
+
+.photogallery-btn.black {
+    background-color: black;
+}
+.photogallery-btn.green {
+    background-color: forestgreen;
+}
+
+.photogallery-btn-orange {
+    width: 130px;
+    height: 50px;
+    color: #ffffff !important;
+    background-color: #f4ad2d;
+    border: none;
+    outline: none !important;
+    text-align: center;
+    line-height: 50px;
+    cursor: pointer;
+}
+
+.photogallery-btn-orange:hover {
+    background-color: #f29f0a;
+}
+
+.width-380 {
+    width: 380px;
+}
+
+.about-us-page-main-img {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 0;
+    width: 100%;
+    height: 700px;
+    position: relative;
+    background-image: url("/images/img_16.jpg");
+    position: relative;
+}
+
+.about-us-page-title {
+    background-color: rgba(128, 128, 128, 0.5);
+    padding: 30px;
+    width: 600px;
+    position: absolute;
+    right: 0;
+    top: 30%;
+}
+
+.photogallery-services-main-img {
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-position: 0;
+    width: 100%;
+    height: 700px;
+    position: relative;
+}
+
+.photogallery-services-title {
+    width: 50%;
+    position: absolute;
+    color: #f4ad2d;
+    text-align: center;
+    top: 30%;
+    left: 25%;
+}
+
+.photogallery-services-main-img.wedding {
+    background-image: url("/images/img_7_bw.jpg")
+}
+
+.photogallery-services-main-img.special-event {
+    background-position-y: 10%;
+    background-image: url("/images/img_9_bw.jpg")
+}
+
+.photogallery-services-title.special-event {
+    width: 100%;
+    top: 50%;
+    left: 0;
+}
+
+.photogallery-services-main-img.corporate {
+    background-position-y: 10%;
+    background-image: url("/images/img_11_bw.jpg")
+}
+
+.photogallery-services-title.corporate {
+    top: 50%;
+}
+
+ul.services-list {
+    list-style: inside;
+    margin-left: 0px;
+    padding-left: 0
+}
+
+.error-border {
+    border-color: #e00;
+}
+
+.visibility-hidden {
+    visibility: hidden;
+}
+
+.photogallery-submit-btn {
+    font-size: 20px;
+    height: 50px !important;
+    line-height: 30px !important;
+}
+
+.error-message {
+    background-image: url("/images/error_icon.svg");
+    background-repeat: no-repeat;
+    background-size: 27px;
+    background-position-y: 50%;
+    background-position-x: 0%;
+    padding-left: 35px;
+    font-size: 18px;
+    height: 38px;
+    color: #e00;
+    line-height: 38px;
+}
+
+label {
+    font-size: 18px;
+}
+
+.photogallery-search {
+    border: 1px solid rgba(128, 128, 128, 0.5);
+    padding: 0 35px 0 20px;
+    width: 350px;
+    box-shadow: none;
+    border-radius: 30px;
+    outline: none;
+    font-size: 20px;
+    background-image: url("/images/search.svg");
+    background-position-x: 95%;
+    background-position-y: 50%;
+    background-repeat: no-repeat;
+    background-size: 18px;
+    height: 35px !important;
+}
+
+.photogallery-select.sort-select {
+    margin-left: 12px;
+    width: 250px;
+    height: 35px;
+    border: 1px solid #c9c7c7;
+    border-radius: 3px;
+}
+
+.photogallery:focus {
+    outline: none;
+    border: 1px solid black;
+}
+
+.edit-img {
+    width: 20px;
+    height: 20px;
+    margin-left: 8px;
+    cursor: pointer;
+}
+
+.delete-img {
+    width: 20px;
+    height: 20px;
+    margin-left: 8px;
+    cursor: pointer;
+}

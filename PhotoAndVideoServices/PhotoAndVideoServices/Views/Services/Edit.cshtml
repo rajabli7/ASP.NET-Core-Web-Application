@@ -1,0 +1,85 @@
+﻿
+@model ServicePM
+
+@{
+    ViewData["Title"] = "EditServiceType";
+}
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".edit").click(function (e) {
+            e.preventDefault();
+            $.ajax({
+                url: "/Services/Edit/",
+                method: "POST",
+                data: $("#edit-service-type-form").serialize(),
+                success: function () {
+                    location.replace(document.referrer);
+                }
+            });
+        });
+    });
+</script>
+<div class="container-fluid margin-top-100px">
+    <div class="row justify-content-center">
+        <div class="col-12 text-center">
+            <h1>Изменение услуги</h1>
+        </div>
+        <div class="col-lg-8 mb-5">
+            <form id="edit-service-type-form">
+                <div class="form-group row">
+                    <input type="hidden" asp-for="Id" value="@Model.Id">
+                    <input type="hidden" asp-for="ServiceTypeId" value="@Model.ServiceTypeId">
+                    <div class="col-6">
+                        <label for="" class="ml-2">Название</label>
+                    </div>
+                    <div class="col-md-12">
+                        <input type="text" class="form-control photogallery-input" asp-for="Name" value="@Model.Name">
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-6">
+                        <label for="" class="ml-2">Описание</label>
+                    </div>
+                    <div class="col-md-12">
+                        <textarea type="text" class="form-control photogallery-input" asp-for="Description" rows="5">@Model.Description</textarea>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-6">
+                        <label for="" class="ml-2">Цена</label>
+                    </div>
+                    <div class="col-md-12">
+                        <input type="text" class="form-control photogallery-input" asp-for="Price" value="@Model.Price">
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-6">
+                        <label for="" class="ml-2">Дополнения к услуги:</label>
+                    </div>
+                    <div class="col-md-12">
+                        @{
+                            foreach (var addition in ViewBag.Additions)
+                            {
+
+                                if (addition.Checked)
+                                {
+                                    <input name="additionIds" type="checkbox" checked value="@addition.Id" />
+                                }
+                                else
+                                {
+                                    <input name="additionIds" type="checkbox" value="@addition.Id" />
+                                }
+                                <span>@addition.Name +@addition.Price</span><br />
+                            }
+                        }
+                    </div>
+                </div>
+                <div class="row">
+                    <a class="photogallery-btn-orange edit">Сохранить</a>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>

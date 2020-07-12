@@ -1,0 +1,62 @@
+﻿
+@model List<OrderPM>
+
+@{
+    ViewData["Title"] = "ShowEmployeeOrders";
+}
+
+<style>
+    table {
+    }
+
+    .thead-light {
+        background-color: orange !important;
+    }
+
+    .theme {
+        /*background-image: url("/images/theme.png")*/
+    }
+</style>
+
+<div class="container margin-top-100px">
+    <div class="theme">
+        <div class="row">
+            <div class="col-3">
+                <h1 class="ml-5">Заказы</h1>
+            </div>
+            <div class="col-5">
+
+            </div>
+            <div class="col-3">
+                <input type="text" class="photogallery-search" name="name" value="" />
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-12">
+                <table class="table">
+                    <thead class="thead-light">
+                        <tr>
+                            <th scope="col">Заказчик</th>
+                            <th scope="col">Тип услуги</th>
+                            <th scope="col" class="text-center">Статус</th>
+                            <th scope="col" class="text-center"></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var order in Model)
+                        {
+                            <tr class="tr-border">
+                                <td hidden><input type="text" class="search-value" name="name" value="@order.User.FullName$@order.Service.Name$@order.StatusName" /></td>
+                                <td>@order.User.FullName</td>
+                                <td>@order.Service.Name</td>
+                                <td class="text-center">@order.StatusName</td>
+                                <td><a asp-action="ShowEmployeeOrder" asp-controller="Orders" asp-route-orderId="@order.Id">Подробнее</a></td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+

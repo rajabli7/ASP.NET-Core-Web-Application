@@ -1,0 +1,90 @@
+﻿
+@using DataLayer.Enums
+
+@model OrderPM
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $("span").click(function () {
+            $(this).prev().trigger("click");
+        });
+    });
+</script>
+
+<style>
+
+    span:hover {
+        cursor: pointer;
+    }
+
+    #employeesData {
+        font-size: 18px;
+    }
+
+    .photogallery-btn-orange.save-status {
+        line-height: 30px;
+        height: 40px;
+        width: 130px;
+    }
+
+    .photogallery-btn-orange.close-status-modal {
+        line-height: 30px;
+        height: 40px;
+        width: 130px;
+        background-color: #808080;
+    }
+</style>
+
+@{ 
+    var allEmployees = (List<UserPM>)ViewBag.Employees;
+    var orderEmployees = Model.Employees.Select(e => e.Id).ToList();
+}
+
+<div class="modal fade" id="ChooseEmployeesModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center">
+                <h5 class="modal-title" id="exampleModalLabel">Выбрать исполнителей</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div>
+                    <form id="employeesData" asp-action="SetEmployeeOrders" asp-controller="Orders" method="post">
+                        <input type="hidden" name="orderId" value="@Model.Id" />
+                        <div class="col" style="width:400px">
+                            <div class="status-headers mb-2 pl-3">
+                                @{
+                                    int count = 0;
+                                    foreach (var employee in allEmployees)
+                                    {
+                                        if (orderEmployees.Contains(employee.Id))
+                                        {
+                                            <input name="checkedEmployees" checked="checked" type="checkbox" value="@employee.Id" />
+                                            <span>@employee.FullName</span><br />
+                                        }
+                                        else
+                                        {
+                                            <input name="checkedEmployees" type="checkbox" value="@employee.Id" />
+                                            <span>@employee.FullName</span><br />
+                                        }
+                                        count++;
+                                    }
+                                }
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="row justify-content-end">
+                    <input type="button" class="btn photogallery-btn-orange close-status-modal mr-3" data-dismiss="modal" value="Отмена" />
+                    <input form="employeesData" type="submit" class="btn photogallery-btn-orange save-status mr-3" value="Сохранить" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

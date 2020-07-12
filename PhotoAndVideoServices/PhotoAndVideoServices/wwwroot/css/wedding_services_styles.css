@@ -1,0 +1,14 @@
+﻿.wedding-cinematography {
+    background-color: #777777;
+    border-top-left-radius: 20px !important;
+    border-bottom-left-radius: 20px !important;
+    color: #ffffff;
+}
+
+
+.wedding-photography {
+    color: #ffffff;
+    background-color: #999999;
+    border-top-right-radius: 20px !important;
+    border-bottom-right-radius: 20px !important;
+}

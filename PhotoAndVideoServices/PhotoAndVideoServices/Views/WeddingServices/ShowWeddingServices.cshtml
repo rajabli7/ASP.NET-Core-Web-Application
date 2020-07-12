@@ -1,0 +1,166 @@
+﻿
+@{
+    ViewData["Title"] = "ShowWeddingServices";
+    var currentUser = (CurrentUser)ViewBag.CurrentUser;
+}
+
+@model ServiceTypePM
+
+<style>
+    .container-fluid a {
+        color: white;
+    }
+</style>
+
+<div class="container-fluid">
+    <div class="col-12 photogallery-services-main-img wedding">
+        <div class="photogallery-services-title">
+            <h1>Не упустите момент.</h1><br />
+            <h2>
+                Вы вкладываете душу в планирование дня свадьбы и мы вкладываем наше сердце и душу в его захват.
+            </h2>
+        </div>
+    </div>
+    <div class="row mt-2">
+        <div class="col-12 text-center ">
+            <h1>@Model.Name</h1>
+        </div>
+        <div class="col-2"></div>
+        <div class="col-4 text-center wedding-cinematography p-3 pt-5">
+            @{
+                string[] cinematographyDescriptions = Model.Services[0].Description.Split('&');
+            }
+            <h2><a asp-action="Show" asp-controller="Services" asp-route-id="@Model.Services[0].Id">@Model.Services[0].Name</a></h2>
+
+            <img src="~/images/wedding_services_icons/video-camera-orange.svg" alt="Video Camera" width="50" />
+
+            <div>
+                <h3 class="mt-2">Основной пакет</h3>
+                <ul class="services-list">
+                    @foreach (var cinematographyDescription in cinematographyDescriptions)
+                    {
+                        <li>@cinematographyDescription</li>
+                    }
+                </ul>
+            </div>
+            <div>
+                <h3 class="mt-2">Вы также можете добавить в свой пакет:</h3>
+                <ul class="services-list">
+                    @foreach (var addition in Model.Services[0].Additions)
+                    {
+                        <li>@addition.Name</li>
+                    }
+                </ul>
+            </div>
+            @if (currentUser.IsClient)
+            {
+                <div class="row justify-content-center">
+                    <a class="photogallery-btn-orange" asp-action="MakeOrder" asp-controller="WeddingServices">Заказать</a>
+                </div>
+            }
+            else if (currentUser.IsAdmin)
+            {
+                <div class="row justify-content-center">
+                    <a class="photogallery-btn-orange" asp-action="Edit" asp-controller="Services" asp-route-id="@Model.Services[0].Id">Изменить</a>
+                    <a class="photogallery-btn black ml-2 delete" data-id="@Model.Services[0].Id">Удалить</a>
+                </div>
+            }
+        </div>
+        <div class="col-4 text-center wedding-photography p-3 pt-5">
+            @{
+                string[] photographyDescriptions = Model.Services[1].Description.Split('&');
+            }
+            <h2><a asp-action="Show" asp-controller="Services" asp-route-id="@Model.Services[1].Id">@Model.Services[1].Name</a></h2>
+            <img src="~/images/wedding_services_icons/camera_orange.svg" alt="Alternate Text" width="50" />
+            <div>
+                <h3 class="mt-2">Основной пакет</h3>
+                <ul class="services-list">
+                    @foreach (var photographyDescription in photographyDescriptions)
+                    {
+                        <li>@photographyDescription</li>
+                    }
+                </ul>
+            </div>
+            <div>
+                <h3 class="mt-2">Вы также можете добавить в свой пакет:</h3>
+                <ul class="services-list">
+                    @foreach (var addition in Model.Services[1].Additions)
+                    {
+                        <li>@addition.Name</li>
+                    }
+                </ul>
+            </div>
+            @if (currentUser.IsClient)
+            {
+                <div class="row justify-content-center">
+                    <a class="photogallery-btn-orange" asp-action="MakeOrder" asp-controller="WeddingServices">Заказать</a>
+                </div>
+            }
+            else if (currentUser.IsAdmin)
+            {
+                <div class="row justify-content-center">
+                    <a class="photogallery-btn-orange" asp-action="Edit" asp-controller="Services" asp-route-id="@Model.Services[1].Id">Изменить</a>
+                    <a class="photogallery-btn black ml-2 delete" data-id="@Model.Services[1].Id">Удалить</a>
+                </div>
+            }
+        </div>
+        <div class="col-2"></div>
+    </div>
+    <div class="row justify-content-center">
+        @{
+            var serviceTypes = Model.Services.Skip(2);
+        }
+
+        @foreach (var serviceType in serviceTypes)
+        {
+            <div class="col-4 text-center p-3 pt-5 mt-3 mx-2" style="background-color: #777777; border-radius: 20px !important; color: #ffffff; ">
+                @{
+                    string[] descriptions = serviceType.Description.Split('&');
+                }
+                <h2><a asp-action="Show" asp-controller="Services" asp-route-id="@serviceType.Id">@serviceType.Name</a></h2>
+                <img src="~/images/wedding_services_icons/wedding_service.svg" alt="Alternate Text" width="50" />
+                <div>
+                    <h3 class="mt-2">Основной пакет</h3>
+                    <ul class="services-list">
+                        @foreach (var description in descriptions)
+                        {
+                            <li>@description</li>
+                        }
+                    </ul>
+                </div>
+                @if (serviceType.Additions.Count != 0)
+                {
+                    <div>
+                        <h3 class="mt-2">Вы также можете добавить в свой пакет:</h3>
+                        <ul class="services-list">
+                            @foreach (var addition in serviceType.Additions)
+                            {
+                                <li>@addition.Name</li>
+                            }
+                        </ul>
+                    </div>
+                }
+                @if (currentUser.IsClient)
+                {
+                    <div class="row justify-content-center">
+                        <a class="photogallery-btn black" asp-action="MakeOrder" asp-controller="WeddingServices">Заказать</a>
+                    </div>
+                }
+                else if (currentUser.IsAdmin)
+                {
+                    <div class="row justify-content-center">
+                        <a class="photogallery-btn-orange" asp-action="Edit" asp-controller="Services" asp-route-id="@serviceType.Id">Изменить</a>
+                        <a class="photogallery-btn black ml-2 delete" data-id="@serviceType.Id">Удалить</a>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+    @if (currentUser.IsAdmin)
+    {
+        <div class="row justify-content-center mt-2">
+            <a class="photogallery-btn green" asp-action="Create" asp-controller="Services" asp-route-serviceTypeId="@((int)DataLayer.Enums.ServiceTypeNames.Wedding)">Добавить cвадебную услугу</a>
+        </div>
+    }
+</div>
+

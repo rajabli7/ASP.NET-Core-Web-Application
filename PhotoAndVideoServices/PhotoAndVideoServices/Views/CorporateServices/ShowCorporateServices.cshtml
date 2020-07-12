@@ -1,0 +1,69 @@
+﻿@{
+    ViewData["Title"] = "ShowCorporateServices";
+    var currentUser = (CurrentUser)ViewBag.CurrentUser;
+}
+
+@model ServiceTypePM
+
+<div class="container-fluid">
+    <div class="col-12 photogallery-services-main-img corporate">
+        <div class="photogallery-services-title corporate">
+            <h1>Производство корпоративного видео и фотографии.</h1><br />
+        </div>
+    </div>
+    <div class="row mt-3">
+        <div class="col-7">
+            <div class="row">
+                <div class="col-6">
+                    <img src="~/images/img_12.jpg" class="service-image" alt="Alternate Text" />
+                </div>
+                <div class="col-6 mt-1">
+                    <img src="~/images/img_14.jpg" class="service-image" alt="Alternate Text" />
+                </div>
+            </div>
+        </div>
+        <div class="col-5 text-center">
+            <h1>Производство корпоративного видео и фото</h1>
+            Видео и фото маркетинг везде, куда бы вы ни посмотрели. Включение видео и фото в вашу маркетинговую стратегию в наши дни важно для поддержания успешного, растущего бизнеса. Наша главная цель в Photo Gallery - рассказывать истории наших клиентов и делиться ими. Мы предлагаем предварительные услуги, в том числе написание сценариев, раскадровки и опросы сайтов. Мы с вами на каждом шагу, в зависимости от вашего проекта, мы можем настроить ваш пакет так, чтобы он включал любое дополнительное оборудование или необходимый талант.
+        </div>
+    </div>
+    <div class="row mt-3">
+        <div class="col-4 text-center mt-5">
+            <img src="~/images/corporate_services_icons/corporate_icon.svg" alt="Alternate Text" width="50" />
+            <h2>Список услуг</h2>
+            <ul class="services-list">
+                @if (currentUser.IsAdmin)
+                {
+                    foreach (var corporateService in Model.Services)
+                    {
+                        <li style="font-size: 18px;" class="mt-2"><a asp-action="Show" asp-controller="Services" asp-route-id="@corporateService.Id">@corporateService.Name</a><a asp-action="Edit" asp-controller="Services" asp-route-id="@corporateService.Id"><img class="edit-img" src="~/images/edit.svg" title="Изменить" /></a><img class="delete-img" src="~/images/trash.svg" title="Удалить" data-id="@corporateService.Id" /></li>
+                    }
+                }
+                else
+                {
+                    foreach (var corporateService in Model.Services)
+                    {
+                        <li style="font-size: 18px;" class="mt-2"><a asp-action="Show" asp-controller="Services" asp-route-id="@corporateService.Id">@corporateService.Name</a></li>
+                    }
+                }
+            </ul>
+            @if (currentUser.IsClient)
+            {
+                <div class="row justify-content-center">
+                    <a class="photogallery-btn-orange" asp-action="MakeOrder" asp-controller="CorporateServices">Заказать</a>
+                </div>
+            }
+            @if (currentUser.IsAdmin)
+            {
+                <div class="row justify-content-center mt-2">
+                    <a class="photogallery-btn green" asp-action="Create" asp-controller="Services" asp-route-serviceTypeId="@((int)DataLayer.Enums.ServiceTypeNames.Corporate)">Добавить корпоративную услугу</a>
+                </div>
+            }
+        </div>
+        <div class="col-8">
+            <img src="~/images/img_15.jpg" alt="Alternate Text" style="max-width: 800px;" />
+        </div>
+    </div>
+</div>
+
+

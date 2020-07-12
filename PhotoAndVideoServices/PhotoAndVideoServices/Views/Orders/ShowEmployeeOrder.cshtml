@@ -1,0 +1,92 @@
+﻿
+@{
+    ViewData["Title"] = "ShowEmployeeOrder";
+}
+
+
+@model OrderPM
+
+<style>
+    .photogallery-btn-orange {
+        width: 230px;
+    }
+
+    .height-50 {
+        height: 50px;
+    }
+</style>
+
+<div class="container-fluid margin-top-100px">
+    <div class="row justify-content-center">
+        <div class="col-lg-8">
+            <h1>Заказ №@Model.Id</h1>
+        </div>
+        <div class="col-lg-8 mb-5">
+            <div class="form-group row">
+                <div class="col-6">
+                    <label for="" class="ml-2">Заказчик</label>
+                </div>
+                <div class="col-md-12 mb-4 mb-lg-0">
+                    <input type="text" class="form-control photogallery-input name" value="@Model.User.FullName" disabled>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-6">
+                    <label for="" class="ml-2">Тип услуги</label>
+                </div>
+                <div class="col-md-12">
+                    <input type="text" class="form-control photogallery-input" value="@Model.Service.Name" disabled>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-6">
+                    <label for="" class="ml-2">Описание заказа</label>
+                </div>
+                <div class="col-md-12">
+                    <textarea class="form-control photogallery-input" disabled>@Model.Description</textarea>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-6">
+                    <label for="" class="ml-2">Дата события</label>
+                </div>
+                <div class="col-md-12">
+                    <input type="text" class="form-control photogallery-input" value="@Model.ProjectDate.Value.ToShortDateString()" disabled>
+                </div>
+            </div>
+            <div class="form-group row">
+                <div class="col-6">
+                    <label for="" class="ml-2">Статус</label>
+                </div>
+                <div class="col-md-12">
+                    <input class="form-control photogallery-input height-50" disabled value=@Model.StatusName>
+                </div>
+            </div>
+            <div class="form-group row">
+                @{
+                    string employeeName = "";
+                    if (Model.Employees != null)
+                    {
+                        foreach (var employee in Model.Employees)
+                        {
+                            employeeName += $"{employee.FullName}; ";
+                        }
+                    }
+                }
+                <div class="col-6">
+                    <label for="" class="ml-2">Исполнители заказа</label>
+                </div>
+                <div class="col-md-9">
+                    <textarea class="form-control photogallery-input height-50" disabled rows="7">@employeeName</textarea>
+                </div>
+                <div class="col-md-3">
+                    <form asp-action="DeleteEmployeeOrder" asp-controller="Orders" method="post">
+                        <input type="hidden" name="orderId" value="@Model.Id" />
+                        <button type="submit" class="photogallery-btn-orange">Отказаться</button>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

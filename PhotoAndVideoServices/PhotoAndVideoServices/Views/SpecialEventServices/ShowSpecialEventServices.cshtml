@@ -1,0 +1,59 @@
+﻿@{
+    ViewData["Title"] = "SpecialEventServices";
+
+    var currentUser = (CurrentUser)ViewBag.CurrentUser;
+}
+@model ServiceTypePM
+
+<div class="container-fluid">
+    <div class="col-12 photogallery-services-main-img special-event">
+        <div class="photogallery-services-title special-event">
+            <h2>От семейных портретов до съемки спортивного мероприятия или концерта вашего ребенка ...</h2><br />
+            <h2>
+                Вы можете быть уверены, что мы предоставим не меньше, чем ваше полное удовлетворение.
+            </h2>
+        </div>
+    </div>
+    <div class="row mt-4">
+        <div class="col-4">
+            <img src="~/images/img_17.jpg" alt="Alternate Text" style="max-width: 100%;" />
+        </div>
+        <div class="col-4 text-center mt-5">
+            <h2>Специальные мероприятия</h2>
+            <img src="~/images/special_event_services_icons/graduation_hat.svg" alt="Alternate Text" width="50" />
+            <h3>Список услуг</h3>
+            <ul class="services-list">
+                @if (currentUser.IsAdmin)
+                {
+                    foreach (var specialEventService in Model.Services)
+                    {
+                        <li style="font-size: 18px;" class="mt-2"><a asp-action="Show" asp-controller="Services" asp-route-id="@specialEventService.Id">@specialEventService.Name</a><a asp-action="Edit" asp-controller="Services" asp-route-id="@specialEventService.Id"><img class="edit-img" src="~/images/edit.svg" title="Изменить" /></a><img class="delete-img" src="~/images/trash.svg" title="Удалить" data-id="@specialEventService.Id" /></li>
+                    }
+                }
+                else
+                {
+                    foreach (var specialEventService in Model.Services)
+                    {
+                        <li style="font-size: 18px;" class="mt-2"><a asp-action="Show" asp-controller="Services" asp-route-id="@specialEventService.Id">@specialEventService.Name</a></li>
+                    }
+                }
+            </ul>
+            @if (currentUser.IsClient)
+            {
+                <div class="row justify-content-center">
+                    <a class="photogallery-btn-orange" asp-action="MakeOrder" asp-controller="SpecialEventServices">Заказать</a>
+                </div>
+            }
+            @if (currentUser.IsAdmin)
+            {
+                <div class="row justify-content-center mt-2">
+                    <a class="photogallery-btn green" asp-action="Create" asp-controller="Services" asp-route-serviceTypeId="@((int)DataLayer.Enums.ServiceTypeNames.SpecialEvent)">Добавить услугу cпециального мероприятия</a>
+                </div>
+            }
+        </div>
+        <div class="col-4">
+            <img src="~/images/sport-event.jpg" alt="Alternate Text" style="max-width: 100%;" />
+        </div>
+    </div>
+</div>
+

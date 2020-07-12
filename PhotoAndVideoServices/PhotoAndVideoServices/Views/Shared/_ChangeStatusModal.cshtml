@@ -1,0 +1,78 @@
+﻿
+@using DataLayer.Enums
+
+@model OrderPM
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".status-header-span").click(function () {
+            $(this).prev().prop("checked", true);
+        });
+
+        $("input[type=radio]").eq(@(Model.StatusId - 1)).prop("checked", true);
+    });
+</script>
+
+<style>
+
+    span:hover {
+        cursor: pointer;
+    }
+
+    #statusData {
+        font-size: 18px;
+    }
+
+    .photogallery-btn-orange.save-status {
+        line-height: 30px;
+        height: 40px;
+        width: 130px;
+    }
+
+    .photogallery-btn-orange.close-status-modal {
+        line-height: 30px;
+        height: 40px;
+        width: 130px;
+        background-color: #808080;
+    }
+</style>
+
+<div class="modal fade" id="ChangeStatusModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" role="document">
+        <div class="modal-content">
+            <div class="modal-header text-center">
+                <h5 class="modal-title" id="exampleModalLabel">Изменить статус</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                    <span aria-hidden="true">&times;</span>
+                </button>
+            </div>
+            <div class="modal-body">
+                <div>
+                    <form id="statusData" asp-action="SetOrderStatus" asp-controller="Orders" method="post">
+                        <input type="hidden" name="orderId" value="@Model.Id" />
+                        <div class="col" style="width:400px">
+                            <div class="status-headers mb-2 pl-3">
+                                @Html.RadioButton("statusId", (int)OrderStatusNames.New, true)
+                                <span class="status-header-span">Новый</span> <br />
+                                @Html.RadioButton("statusId", (int)OrderStatusNames.Rejected)
+                                <span class="status-header-span">Отклонен</span> <br />
+                                @Html.RadioButton("statusId", (int)OrderStatusNames.Done)
+                                <span class="status-header-span">Выполнен</span><br />
+                                @Html.RadioButton("statusId", (int)OrderStatusNames.InProgress)
+                                <span class="status-header-span">Выполняется</span><br />
+                            </div>
+                        </div>
+                    </form>
+                </div>
+            </div>
+            <div class="modal-footer">
+                <div class="row justify-content-end">
+                    <input type="button" class="btn photogallery-btn-orange close-status-modal mr-3" data-dismiss="modal" value="Отмена" />
+                    <input form="statusData" type="submit" class="btn photogallery-btn-orange save-status mr-3" value="Сохранить" />
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+

@@ -1,0 +1,492 @@
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.deps.json
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.json
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.dev.json
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csproj.CoreCompileInputs.cache
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cache
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfoInputs.cache
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfo.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.input.cache
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.output.cache
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorCoreGenerate.cache
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cache
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.dll
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csproj.CopyComplete
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Index.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Privacy.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\ShowUsers.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csprojAssemblyReference.cache
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.pdb
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Index.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\ShowWeddingServices.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\ShowSpecialEventServices.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\ShowCorporateServices.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\AboutUs.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Contact.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\MakeOrder.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\MakeOrder.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\MakeOrder.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Users\MyOrders.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Login.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrders.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrder.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChangeStatusModal.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChooseEmployeesModal.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrders.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrder.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ServiceTypeAdditionsPartial.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrder.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrders.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdditionsForOrderModal.g.cshtml.cs
+C:\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ShowOrders.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.deps.json
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.json
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.dev.json
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.dll
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.pdb
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csprojAssemblyReference.cache
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csproj.CoreCompileInputs.cache
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cache
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfo.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.input.cache
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.output.cache
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorCoreGenerate.cache
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\MakeOrder.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\ShowCorporateServices.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrder.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrders.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrder.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrders.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrder.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrders.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\AboutUs.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Contact.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Index.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Login.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Privacy.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\ShowUsers.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Index.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdditionsForOrderModal.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChangeStatusModal.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChooseEmployeesModal.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ServiceTypeAdditionsPartial.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ShowOrders.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\MakeOrder.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\ShowSpecialEventServices.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Users\MyOrders.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\MakeOrder.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\ShowWeddingServices.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cache
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cs
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csproj.CopyComplete
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb
+C:\Program Files (x86)\Лабораторные работы\zip\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Registration.g.cshtml.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.deps.json
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.json
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.dev.json
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.dll
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.pdb
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csprojAssemblyReference.cache
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cache
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfoInputs.cache
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfo.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.input.cache
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.output.cache
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorCoreGenerate.cache
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cache
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csproj.CopyComplete
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\MakeOrder.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\ShowCorporateServices.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrder.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrders.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrder.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrders.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrder.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrders.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\AboutUs.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Contact.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Index.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Login.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Privacy.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Registration.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\ShowUsers.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Index.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdditionsForOrderModal.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChangeStatusModal.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChooseEmployeesModal.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ServiceTypeAdditionsPartial.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ShowOrders.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\MakeOrder.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\ShowSpecialEventServices.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Users\MyOrders.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\MakeOrder.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\ShowWeddingServices.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Program Files (x86)\Лабораторные работы\Базы данных\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.deps.json
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.json
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.dev.json
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.dll
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.pdb
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csprojAssemblyReference.cache
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cache
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfoInputs.cache
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfo.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.input.cache
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.output.cache
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorCoreGenerate.cache
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\MakeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\ShowCorporateServices.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\AboutUs.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Contact.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Index.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Login.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Privacy.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Registration.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\ShowUsers.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Index.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdditionsForOrderModal.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChangeStatusModal.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChooseEmployeesModal.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ServiceTypeAdditionsPartial.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ShowOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\MakeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\ShowSpecialEventServices.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Users\MyOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\MakeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\ShowWeddingServices.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cache
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cs
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csproj.CopyComplete
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb
+C:\Users\comfy\Desktop\Базы данных\Курсовая работа\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\SuccessfulRegistration.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.deps.json
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.json
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.dev.json
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.dll
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.pdb
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csprojAssemblyReference.cache
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cache
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfoInputs.cache
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfo.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.input.cache
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.output.cache
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorCoreGenerate.cache
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\MakeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\ShowCorporateServices.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\AboutUs.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Contact.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Index.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Login.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Privacy.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Registration.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\ShowUsers.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\SuccessfulRegistration.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Index.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdditionsForOrderModal.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChangeStatusModal.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChooseEmployeesModal.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ServiceTypeAdditionsPartial.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ShowOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\MakeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\ShowSpecialEventServices.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Users\MyOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\MakeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\ShowWeddingServices.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cache
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csproj.CopyComplete
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Create.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Edit.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Show.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.deps.json
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.json
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.dev.json
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.dll
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.pdb
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csprojAssemblyReference.cache
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cache
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfoInputs.cache
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfo.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.input.cache
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.output.cache
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorCoreGenerate.cache
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\MakeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\ShowCorporateServices.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\AboutUs.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Contact.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Index.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Login.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Privacy.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Registration.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\ShowUsers.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\SuccessfulRegistration.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Create.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Edit.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Index.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Show.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdditionsForOrderModal.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChangeStatusModal.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChooseEmployeesModal.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ServiceTypeAdditionsPartial.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ShowOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\MakeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\ShowSpecialEventServices.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Users\MyOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\MakeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\ShowWeddingServices.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cache
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cs
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csproj.CopyComplete
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Users\comfy\Desktop\Net\Lab3\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.deps.json
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.json
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.dev.json
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.dll
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.pdb
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csprojAssemblyReference.cache
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cache
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfoInputs.cache
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfo.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.input.cache
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.output.cache
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorCoreGenerate.cache
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\MakeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\ShowCorporateServices.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\AboutUs.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Contact.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Index.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Login.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Privacy.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Registration.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\ShowUsers.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\SuccessfulRegistration.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Create.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Edit.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Index.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Show.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdditionsForOrderModal.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChangeStatusModal.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChooseEmployeesModal.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ServiceTypeAdditionsPartial.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ShowOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\MakeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\ShowSpecialEventServices.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Users\MyOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\MakeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\ShowWeddingServices.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cache
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cs
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csproj.CopyComplete
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Users\comfy\Desktop\Projects\ASP.NET Core Application\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\appsettings.Development.json
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\appsettings.json
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\Properties\launchSettings.json
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.deps.json
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.json
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.runtimeconfig.dev.json
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.dll
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.dll
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.dll
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\BusinessLayer.pdb
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\bin\Debug\netcoreapp2.2\DataLayer.pdb
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csprojAssemblyReference.cache
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cache
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorAssemblyInfo.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfoInputs.cache
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.AssemblyInfo.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.input.cache
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.TagHelpers.output.cache
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorCoreGenerate.cache
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\MakeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\CorporateServices\ShowCorporateServices.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowClientOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowEmployeeOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Orders\ShowOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\AboutUs.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Contact.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Index.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Login.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Privacy.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\Registration.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\ShowUsers.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Photogallery\SuccessfulRegistration.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Create.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Edit.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Index.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Services\Show.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_AdditionsForOrderModal.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChangeStatusModal.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ChooseEmployeesModal.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_CookieConsentPartial.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ServiceTypeAdditionsPartial.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ShowOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\MakeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\SpecialEventServices\ShowSpecialEventServices.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\Users\MyOrders.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\MakeOrder.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\WeddingServices\ShowWeddingServices.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cache
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.RazorTargetAssemblyInfo.cs
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.Views.pdb
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.csproj.CopyComplete
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.dll
+C:\Users\comfy\Desktop\PhotoAndVideoServices\PhotoAndVideoServices\obj\Debug\netcoreapp2.2\PhotoAndVideoServices.pdb

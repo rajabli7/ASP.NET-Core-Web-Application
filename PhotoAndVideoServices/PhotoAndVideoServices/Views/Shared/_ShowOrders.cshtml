@@ -1,0 +1,63 @@
+﻿
+
+@model List<OrderPM>
+
+<script src="~/lib/jquery/dist/jquery.min.js"></script>
+<script>
+    $(document).ready(function () {
+        $(".photogallery-search").keyup(function () {
+            var text = $(this).val();
+            var searchValues = $(".search-value");
+            searchValues.filter(".search-value").closest("tr").hide();
+            searchValues.filter(function () {
+                if ($(this).val().toLowerCase().includes(text.toLowerCase())) {
+                    $(this).closest("tr").show();
+                }
+            });
+        });
+
+        $("select.sort-by-status").change(function () {
+            var statusId = $("select.sort-by-status option:selected").val();
+        });
+    });
+</script>
+
+<style>
+    table {
+    }
+
+    .thead-light {
+        background-color: orange !important;
+    }
+
+    .theme {
+        /*background-image: url("/images/theme.png")*/
+    }
+</style>
+
+<div class="row">
+    <div class="col-12">
+        <table class="table">
+            <thead class="thead-light">
+                <tr>
+                    <th scope="col">Заказчик</th>
+                    <th scope="col">Тип услуги</th>
+                    <th scope="col" class="text-center">Статус</th>
+                    <th scope="col" class="text-center"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var order in Model)
+                {
+                    <tr class="tr-border">
+                        <td hidden><input type="text" class="search-value" name="name" value="@order.User.FullName$@order.Service.Name$@order.StatusName" /></td>
+                        <td>@order.User.FullName</td>
+                        <td>@order.Service.Name</td>
+                        <td class="text-center">@order.StatusName</td>
+                        <td><a asp-action="ShowOrder" asp-controller="Orders" asp-route-orderId="@order.Id">Подробнее</a></td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</div>

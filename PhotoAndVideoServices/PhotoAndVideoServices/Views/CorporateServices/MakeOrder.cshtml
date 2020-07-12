@@ -1,0 +1,129 @@
+﻿
+@{
+    ViewData["Title"] = "MakeOrders";
+}
+
+@model OrderPM
+
+@{
+    var corporateServices = (List<ServicePM>)ViewBag.Services;
+}
+
+<style>
+    .error-message {
+        height: 28px;
+        line-height: 28px;
+    }
+
+    label {
+        font-size: 18px;
+    }
+
+    ul.services-list {
+        font-size: 20px;
+    }
+</style>
+
+<div class="container-fluid margin-top-100px">
+    <div class="row justify-content-center">
+        <h1>Заказ корпоративной услуги</h1>
+    </div>
+    <div class="row justify-content-center mt-3">
+        <div class="col-3 text-center">
+            <img src="~/images/corporate_services_icons/corporate_icon.svg" alt="Alternate Text" width="50" />
+            <h2>Список услуг</h2>
+            <ul class="services-list">
+                @foreach (var corporateService in corporateServices)
+                {
+                    <li>@corporateService.Name - @corporateService.Price₴</li>
+                }
+            </ul>
+        </div>
+        <div class="col-1">
+
+        </div>
+        <div class="col-6 mb-5">
+            <form id="order-form">
+                <div class="form-group row">
+                    <div class="col-6">
+                        <label for="service-type-id" class="ml-2">Выберите тип услуги</label>
+                    </div>
+                    <div class="col-6 error-message service-type-msg visibility-hidden">
+                        <p>Выберите тип</p>
+                    </div>
+                    <div class="col-md-12 mb-4 mb-lg-0">
+                        <select id="service-type-id" class="form-control photogallery-select service-type" name="ServiceId">
+                            <option hidden value="0">Выберите тип услуги</option>
+                            @foreach (var corporateService in corporateServices)
+                            {
+                                <option value="@corporateService.Id" data-price="@corporateService.Price">@corporateService.Name</option>
+                            }
+                        </select>
+                    </div>
+                    <div class="col-md-12 additions-content">
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-6">
+                        <label for="project-date" class="ml-2">Дата события</label>
+                    </div>
+                    <div class="col-6 error-message project-date-msg visibility-hidden">
+                        <p class="">Укажите корректную дату</p>
+                    </div>
+                    <div class="col-md-12 mb-4 mb-lg-0">
+                        <input type="date" id="project-date" class="form-control photogallery-input project-date" name="ProjectDate" placeholder="Дата события*">
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-6">
+                        <label for="address" class="ml-2">Адрес</label>
+                    </div>
+                    <div class="col-6 error-message address-msg visibility-hidden">
+                        <p>Заполните это поле</p>
+                    </div>
+                    <div class="col-md-12">
+                        <input type="text" id="address" class="form-control photogallery-input address" name="Address" placeholder="Адрес*">
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-6">
+                        <label for="addition-info" class="ml-2">Дополнительная информация</label>
+                    </div>
+                    <div class="col-6">
+                    </div>
+                    <div class="col-md-12">
+                        <textarea id="addition-info" class="form-control photogallery-textarea description" name="Description" placeholder="Дополнительная информация" cols="30" rows="5"></textarea>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-6">
+                        <label for="price" class="ml-2">Сумма</label>
+                    </div>
+                    <div class="col-md-12">
+                        <input type="text" id="price" class="form-control photogallery-input price" value="" readonly>
+                    </div>
+                </div>
+                <div class="form-group row">
+                    <div class="col-md-6 mr-auto">
+                        <input type="submit" class="btn btn-block photogallery-btn-orange text-white px-5 photogallery-submit-btn" value="Отправить заказ">
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+    <div class="col-lg-4">
+        <div class="error-message visibility-hidden header-msg mb-3">
+            <p>Выберите тему сообщения</p>
+        </div>
+        <div class="error-message visibility-hidden full-name-msg mb-3">
+            <p>Заполните эти поля</p>
+        </div>
+        <div class="error-message visibility-hidden mail-msg mb-3">
+            <p>Введите действительный эл. адрес.</p>
+        </div>
+        <div class="error-message visibility-hidden message-msg mb-3">
+            <p>Заполните это поле</p>
+        </div>
+    </div>
+</div>
+
