@@ -1,0 +1,14 @@
+
+*.ide-shm
+*.ide-wal
+*.cache
+*.cache
+*.cache
+PhotoAndVideoServices/BusinessLayer/obj/Debug/netcoreapp2.2/BusinessLayer.csprojAssemblyReference.cache
+PhotoAndVideoServices/DataLayer/obj/Debug/netcoreapp2.2/DataLayer.assets.cache
+*.cache
+*.cache
+*.cache
+PhotoAndVideoServices/DataLayer/obj/Debug/netcoreapp2.2/DataLayer.csprojAssemblyReference.cache
+*.cache
+*.cache
